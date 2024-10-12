@@ -3,6 +3,8 @@
     <h1>New user Register for DevOps Learning with automation </h1>
     <p>Please fill in this form to create an account.What a try by learning automation</p>
     <hr>
+    <p> here we are trying to automate the creation and pushing of the image from ansible to dockerhub</p>
+    <hr>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
